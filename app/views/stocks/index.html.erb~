@@ -1,0 +1,60 @@
+<head> 
+<title>Stocks</title> 
+
+<script> 
+$(document).ready(function()
+
+{ $("#stocks").hide(); 
+	$("button").click(function()
+		
+		{ 
+	
+		$.get("view2/list", function(data)
+		
+		 { 
+		   console.log(data); 
+		   $("#stocks").show(); 
+
+			for (var i = 0; i < 15; i++) 
+			{  
+		
+				
+				var row = $("<tr>");
+					
+				 $("#stocks").append(row); 
+					row.append($("<td>" + data[i].city + "</td>")); 
+					row.append($("<td>" + data[i].company + "</td>")); 
+					row.append($("<td>" + data[i].Open + "</td>")); 
+					row.append($("<td>" + data[i].high + "</td>")); 
+					row.append($("<td>" + data[i].low + "</td>"));
+					row.append($("<td>" + data[i].Close + "</td>"));
+
+				var row = $("<tr/>"); 
+			} 
+		   }); 
+	
+		   }); 
+	
+}); 
+</script>
+</head> 
+
+<body> 
+
+<h1>Web XML Project 1-Stocks index</h1>
+<p>This contains the table list for different company stocks</p>
+
+<button>Submit</button>
+
+<table id="stocks"> 
+<tr> 
+<th> City </th> 
+<th> Company </th> 
+<th> Opening Stock </th> 
+<th> High Value on specific day </th> 
+<th> Low Value on specific day </th> 
+<th> Closing Stock </th> 
+</tr> 
+</table> 
+</body>
+

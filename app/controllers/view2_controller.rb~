@@ -1,0 +1,4 @@
+class View2Controller < ApplicationController
+  def list
+  end
+end
