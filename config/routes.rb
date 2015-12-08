@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  get 'view2/list'
-
-root 'stocks#index'
+  #get 'view2/list'
+get 'insurance_mongo_data/fetch/:k' => 'insurance_mongo_data#fetch'
+root 'insurance	#index'
 
 
   # The priority is based upon order of creation: first created -> highest priority.

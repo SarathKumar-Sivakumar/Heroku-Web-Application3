@@ -1,0 +1,2 @@
+module InsuranceMongoDataHelper
+end
