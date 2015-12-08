@@ -40,4 +40,6 @@ gem 'puma'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-gem 'sqlite3'
+group :development, :test do # <<<< :development, not devlopment
+  gem 'sqlite3'
+end
