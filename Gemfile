@@ -5,7 +5,7 @@ ruby '2.2.1'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
 gem 'pg'
-gem 'sqlite3','~>1.3.11'
+
 gem 'bson','~> 3.0'
 gem 'mongo','~> 2.1'
 gem 'rails_12factor', group: :production
@@ -40,4 +40,4 @@ gem 'puma'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'sqlite3'
