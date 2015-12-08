@@ -16,7 +16,7 @@ coll=db.collection('insurance')
 puts "The key results are :\n"
 @result.each do |output|
 puts "\n\nPolicyID | Statecode | County | Ponit_latitude | Ponit_longitude | Line | Construction | Point_Granularity "
-puts "#{output['policyid']} | #{output['statecode']} | #{output['county']} | #{output['latitude']} | #{output['longtitude']} |#{output['line']}| #{output['construction']}| #{output['point']}"
+puts "#{output['policyid']} | #{output['statecode']} | #{output['county']} | #{output['latitude']}  |#{output['line']}| #{output['construction']}| #{output['point']}"
 
 #end
 end
