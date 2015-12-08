@@ -33,7 +33,7 @@ $(document).ready(function()
 					insurancetable_row.append($("<td>" + data[j].statecode + "</td>"));
 					insurancetable_row.append($("<td>" + data[j].county + "</td>"));
 					insurancetable_row.append($("<td>" + data[j].latitude + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].longtitude + "</td>"));
+					
 					insurancetable_row.append($("<td>" + data[j].line + "</td>"));
 					insurancetable_row.append($("<td>" + data[j].construction + "</td>"));
 					insurancetable_row.append($("<td>" + data[j].point + "</td>"));
@@ -65,7 +65,7 @@ $(document).ready(function()
 
 <input type="button" id="submitbutton" value="Click it" style="color:red" name="button"/>
 
-<span style="color:red">Count of records: <label id="color"></label></span>
+<span style="color:red">Total No of Records: <label id="color"></label></span>
 
 <table cellspacing='0' id="dtable" border="1">
 
@@ -75,7 +75,7 @@ $(document).ready(function()
 <th> Statecode </th> 
 <th> County </th> 
 <th> Ponit_latitude </th> 
-<th> Ponit_longitude </th> 
+
 <th> Line </th>
 <th> Construction </th>
 <th> Point_Granularity </th> 

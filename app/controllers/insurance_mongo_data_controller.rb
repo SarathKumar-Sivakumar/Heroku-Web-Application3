@@ -14,9 +14,9 @@ coll=db.collection('insurance')
 #puts params[:k];
 #if unless @result.nil? or @result == 0
 puts "The key results are :\n"
-@result.each do |output|
+@result.each do |list|
 puts "\n\nPolicyID | Statecode | County | Ponit_latitude | Ponit_longitude | Line | Construction | Point_Granularity "
-puts "#{output['policyid']} | #{output['statecode']} | #{output['county']} | #{output['latitude']}  |#{output['line']}| #{output['construction']}| #{output['point']}"
+puts "#{list['policyid']} | #{list['statecode']} | #{list['county']} | #{list['latitude']}  |#{list['line']}| #{list['construction']}| #{list['point']}"
 
 #end
 end
