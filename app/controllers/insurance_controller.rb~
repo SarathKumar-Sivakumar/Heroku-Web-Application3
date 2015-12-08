@@ -1,2 +1,4 @@
 class InsuranceController < ApplicationController
+def fetch
+end
 end

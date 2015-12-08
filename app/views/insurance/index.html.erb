@@ -9,7 +9,7 @@ $(document).ready(function()
 		//jquery call back function to get one record in each request
 		var callbackfn=setInterval(function() 
 		{
-			$.get("insurance/fetch/"+ row_id.toString(), function (data) 
+			$.get("insurance_mongo_data/fetch/"+ row_id.toString(), function (data) 
 			{
 				for (var j = 0; j < 10; j++)
 				{

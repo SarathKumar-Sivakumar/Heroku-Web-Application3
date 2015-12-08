@@ -1,8 +1,10 @@
 Rails.application.routes.draw do
   #get 'view2/list'
-get 'insurance_mongo_data/fetch/:k' => 'insurance_mongo_data#fetch'
-root 'insurance	#index'
 
+root 'insurance	#index'
+get 'insurance_mongo_data/fetch/:k' => 'insurance_mongo_data#fetch'
+
+#get 'insurance_mongo_data/fetch'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
