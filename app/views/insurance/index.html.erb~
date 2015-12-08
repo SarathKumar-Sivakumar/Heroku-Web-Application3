@@ -4,52 +4,45 @@ $(document).ready(function()
 {
 	$("#submitbutton").click(function()
 	{
-		var row_count=0;
-		var row_id=100658;
+		var counter=0;
+		var pid=100658;
 		//jquery call back function to get one record in each request
-		var callbackfn=setInterval(function() 
+		var fn=setInterval(function() 
 		{
-			$.get("insurance_mongo_data/fetch/"+ row_id.toString(), function (data) 
+			$.get("insurance_mongo_data/fetch/"+ pid.toString(), function (data) 
 			{
-				for (var j = 0; j < 10; j++)
-				{
-					if(row_count%20===0)
+				
+				
+					if(counter%20===0)
 					{
 						$("#insurance").html("");
 					}
 
-					$("#color").html(row_count.toString());
-					if (j % 2 == 0) 
+					if (counter==100)
 					{
-						var insurancetable_row = $("<tr id='"+row_count+"' class='even'>");
+						clearInterval(fn);
 					}
-			
-					else 
-					{
-						var insurancetable_row = $("<tr id='"+row_count+"'>");
-					}
-
-					insurancetable_row.append($("<td>" + data[j].policyid + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].statecode + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].county + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].latitude + "</td>"));
 					
-					insurancetable_row.append($("<td>" + data[j].line + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].construction + "</td>"));
-					insurancetable_row.append($("<td>" + data[j].point + "</td>"));
+					$("#color").html(counter.toString());
+					
+					var insurancetable_row = $("<tr id='"+counter+"'>");
+					
+					insurancetable_row.append($("<td>" + data[0].policyid + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].statecode + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].county + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].latitude + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].line + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].construction + "</td>"));
+					insurancetable_row.append($("<td>" + data[0].point + "</td>"));
 					insurancetable_row.append($("</tr>"));
 
 					$("#insurance").append(insurancetable_row);
-					$("#insurance tr#"+row_count).hide();
-					$("#insurance tr#"+row_count).fadeIn("slow");
-					row_count = row_count + 1;
-					row_id=row_id+1;
-
-					if (row_count==100)
-					{
-						clearInterval(callbackfn);
-					}
-				}
+					$("#insurance tr#"+counter).fadeOut("fast");
+					$("#insurance tr#"+counter).fadeIn("slow");
+					counter = counter + 1;
+					pid=pid+1;
+					
+				
 			});
 		}, 500);
 	});
@@ -57,15 +50,15 @@ $(document).ready(function()
 
 </script>
 
-<div align="center">
+<div style="color:white;background-color:black;">
 
 <h1>Web XML Project 3-Insurance</h1>
 
-<p>This contains the table list for different insurance based on state and county from MongoDB database in heroku server</p>
+<p>Insurance policy based on state and county from MongoDB database in heroku server</p>
 
-<input type="button" id="submitbutton" value="Click it" style="color:red" name="button"/>
-
-<span style="color:red">Total No of Records: <label id="color"></label></span>
+</div>
+<div>
+<input type="button" id="submitbutton" value="Output" style="color:red" name="button"/>
 
 <table cellspacing='0' id="dtable" border="1">
 
@@ -75,7 +68,6 @@ $(document).ready(function()
 <th> Statecode </th> 
 <th> County </th> 
 <th> Ponit_latitude </th> 
-
 <th> Line </th>
 <th> Construction </th>
 <th> Point_Granularity </th> 
@@ -87,6 +79,8 @@ $(document).ready(function()
 
 </table>
 
-</div></head> 
+<span style="color:red">Counter: <label id="color"></label></span>
+</div>
+
 
 

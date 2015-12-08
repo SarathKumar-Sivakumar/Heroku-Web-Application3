@@ -27216,3 +27216,1683 @@ Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:
 Processing by InsuranceMongoDataController#fetch as */*
   Parameters: {"k"=>"100667"}
 Completed 200 OK in 3211ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:31:08 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 154ms (Views: 147.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:31:11 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 976ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:31:12 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 7551ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:31:20 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 1465ms (Views: 85.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:31:21 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 1102ms (Views: 83.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:31:22 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 2718ms (Views: 101.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:31:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 686ms (Views: 77.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:31:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 696ms (Views: 84.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 854ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:31:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 704ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:31:28 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 777ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:31:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 949ms (Views: 89.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:31:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 692ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:31:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 592ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:31:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 625ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:32 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 736ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:31:33 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 633ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:31:33 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 1114ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:31:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 696ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:31:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 640ms (Views: 77.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:31:36 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 817ms (Views: 88.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100669" for 127.0.0.1 at 2015-12-08 13:31:36 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100669"}
+Completed 200 OK in 744ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100670" for 127.0.0.1 at 2015-12-08 13:31:37 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100670"}
+Completed 200 OK in 4882ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:31:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 689ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:31:43 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 675ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100672" for 127.0.0.1 at 2015-12-08 13:31:43 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100672"}
+Completed 200 OK in 678ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 668ms (Views: 90.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100673" for 127.0.0.1 at 2015-12-08 13:31:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100673"}
+Completed 200 OK in 634ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:31:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed 200 OK in 669ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:31:46 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 627ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100675" for 127.0.0.1 at 2015-12-08 13:31:47 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100675"}
+Completed 200 OK in 714ms (Views: 84.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:31:47 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 793ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:31:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 648ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100677" for 127.0.0.1 at 2015-12-08 13:31:49 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100677"}
+Completed   in 177ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100682" for 127.0.0.1 at 2015-12-08 13:31:49 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100682"}
+Completed 500 Internal Server Error in 413ms (ActiveRecord: 0.0ms)
+
+ThreadError (can't alloc thread):
+  app/controllers/insurance_mongo_data_controller.rb:8:in `new'
+  app/controllers/insurance_mongo_data_controller.rb:8:in `fetch'
+
+
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.7ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.4ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.5ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.text.erb (14.2ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100683" for 127.0.0.1 at 2015-12-08 13:31:50 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100683"}
+Completed 500 Internal Server Error in 327ms (ActiveRecord: 0.0ms)
+
+ThreadError (can't alloc thread):
+  app/controllers/insurance_mongo_data_controller.rb:8:in `new'
+  app/controllers/insurance_mongo_data_controller.rb:8:in `fetch'
+
+
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.8ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.text.erb (14.7ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:50 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed   in 550ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:51 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 648ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100684" for 127.0.0.1 at 2015-12-08 13:31:51 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100684"}
+Completed 200 OK in 1493ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:31:53 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 1021ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100692" for 127.0.0.1 at 2015-12-08 13:31:54 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100692"}
+Completed   in 249ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:32:16 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 156ms (Views: 148.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:32:24 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1661ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:32:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 646ms (Views: 91.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:32:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 732ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:32:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 765ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:33:46 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 155ms (Views: 148.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:33:49 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1023ms (Views: 106.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:33:50 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 716ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:33:51 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 869ms (Views: 78.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:33:52 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 624ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:33:53 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 635ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:33:53 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 1911ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:33:55 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 2140ms (Views: 116.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:33:57 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 1421ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:33:59 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 1739ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:34:00 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 668ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:34:01 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 1091ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:34:02 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 918ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:34:03 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 3758ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:34:07 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 702ms (Views: 104.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:34:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 878ms (Views: 88.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:34:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 1300ms (Views: 81.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:34:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 1269ms (Views: 98.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100669" for 127.0.0.1 at 2015-12-08 13:34:11 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100669"}
+Completed   in 339ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:39:06 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 156ms (Views: 148.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:39:09 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 862ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:39:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 2814ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:39:13 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 918ms (Views: 84.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:39:14 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 735ms (Views: 96.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:39:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 2028ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:39:17 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 1076ms (Views: 102.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:39:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 1041ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:39:19 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed   in 1071ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:39:54 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 156ms (Views: 148.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:39:58 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 909ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:39:58 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 815ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:39:59 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 983ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:40:00 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 982ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:40:01 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 757ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:40:02 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 1961ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:40:04 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 665ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:40:05 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 678ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:40:05 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 919ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:40:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 1816ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:40:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 706ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:40:09 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 853ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:40:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed   in 433ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:46:57 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 157ms (Views: 149.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:47:01 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1020ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:47:02 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 692ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:47:03 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 622ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:47:04 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 659ms (Views: 98.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:47:04 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 760ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:47:05 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 740ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:47:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 665ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:47:07 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 635ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:47:07 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 679ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:47:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 769ms (Views: 94.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:47:09 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 745ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:47:09 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 663ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:47:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 628ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:47:11 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 1004ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:47:12 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 814ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100669" for 127.0.0.1 at 2015-12-08 13:47:13 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100669"}
+Completed 200 OK in 1314ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100670" for 127.0.0.1 at 2015-12-08 13:47:14 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100670"}
+Completed 200 OK in 1136ms (Views: 78.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:47:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 630ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100675" for 127.0.0.1 at 2015-12-08 13:47:16 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100675"}
+Completed 200 OK in 2238ms (Views: 85.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100672" for 127.0.0.1 at 2015-12-08 13:47:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100672"}
+Completed 200 OK in 658ms (Views: 88.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:47:19 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 691ms (Views: 143.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100673" for 127.0.0.1 at 2015-12-08 13:47:19 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100673"}
+Completed 200 OK in 1893ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:47:21 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed 200 OK in 644ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:47:22 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 724ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:47:23 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 846ms (Views: 85.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:47:23 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 1012ms (Views: 113.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100677" for 127.0.0.1 at 2015-12-08 13:47:24 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100677"}
+Completed 200 OK in 830ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100672" for 127.0.0.1 at 2015-12-08 13:47:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100672"}
+Completed 200 OK in 588ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100678" for 127.0.0.1 at 2015-12-08 13:47:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100678"}
+Completed 200 OK in 629ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100679" for 127.0.0.1 at 2015-12-08 13:47:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100679"}
+Completed 200 OK in 597ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100673" for 127.0.0.1 at 2015-12-08 13:47:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100673"}
+Completed 200 OK in 589ms (Views: 84.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100680" for 127.0.0.1 at 2015-12-08 13:47:28 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100680"}
+Completed 200 OK in 605ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:47:28 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed 200 OK in 695ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100681" for 127.0.0.1 at 2015-12-08 13:47:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100681"}
+Completed 200 OK in 577ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100682" for 127.0.0.1 at 2015-12-08 13:47:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100682"}
+Completed 200 OK in 582ms (Views: 77.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100683" for 127.0.0.1 at 2015-12-08 13:47:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100683"}
+Completed 200 OK in 1134ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:47:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 772ms (Views: 105.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100684" for 127.0.0.1 at 2015-12-08 13:47:32 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100684"}
+Completed 200 OK in 2214ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100677" for 127.0.0.1 at 2015-12-08 13:47:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100677"}
+Completed 200 OK in 879ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100685" for 127.0.0.1 at 2015-12-08 13:47:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100685"}
+Completed 200 OK in 839ms (Views: 106.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100686" for 127.0.0.1 at 2015-12-08 13:47:36 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100686"}
+Completed 200 OK in 902ms (Views: 125.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100687" for 127.0.0.1 at 2015-12-08 13:47:37 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100687"}
+Completed 200 OK in 8503ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100679" for 127.0.0.1 at 2015-12-08 13:47:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100679"}
+Completed 200 OK in 1958ms (Views: 145.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100688" for 127.0.0.1 at 2015-12-08 13:47:47 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100688"}
+Completed 200 OK in 1735ms (Views: 188.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100689" for 127.0.0.1 at 2015-12-08 13:47:49 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100689"}
+Completed 200 OK in 883ms (Views: 132.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100690" for 127.0.0.1 at 2015-12-08 13:47:50 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100690"}
+Completed 200 OK in 918ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:47:51 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed 200 OK in 1162ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100691" for 127.0.0.1 at 2015-12-08 13:47:52 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100691"}
+Completed 200 OK in 3017ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100681" for 127.0.0.1 at 2015-12-08 13:47:55 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100681"}
+Completed 200 OK in 609ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100692" for 127.0.0.1 at 2015-12-08 13:47:56 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100692"}
+Completed 200 OK in 717ms (Views: 81.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100693" for 127.0.0.1 at 2015-12-08 13:47:56 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100693"}
+Completed 200 OK in 2170ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100683" for 127.0.0.1 at 2015-12-08 13:47:59 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100683"}
+Completed 200 OK in 1018ms (Views: 90.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100694" for 127.0.0.1 at 2015-12-08 13:48:00 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100694"}
+Completed 200 OK in 2948ms (Views: 88.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:48:03 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 2980ms (Views: 91.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100695" for 127.0.0.1 at 2015-12-08 13:48:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100695"}
+Completed 200 OK in 752ms (Views: 105.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100684" for 127.0.0.1 at 2015-12-08 13:48:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100684"}
+Completed 200 OK in 1375ms (Views: 83.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100696" for 127.0.0.1 at 2015-12-08 13:48:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100696"}
+Completed 200 OK in 2360ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100697" for 127.0.0.1 at 2015-12-08 13:48:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100697"}
+Completed 200 OK in 1450ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100698" for 127.0.0.1 at 2015-12-08 13:48:11 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100698"}
+Completed 200 OK in 3980ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100686" for 127.0.0.1 at 2015-12-08 13:48:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100686"}
+Completed 200 OK in 2952ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100699" for 127.0.0.1 at 2015-12-08 13:48:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100699"}
+Completed 200 OK in 6648ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100700" for 127.0.0.1 at 2015-12-08 13:48:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100700"}
+Completed 200 OK in 8714ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100679" for 127.0.0.1 at 2015-12-08 13:48:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100679"}
+Completed 200 OK in 1015ms (Views: 78.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100701" for 127.0.0.1 at 2015-12-08 13:48:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100701"}
+Completed 200 OK in 2011ms (Views: 107.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100702" for 127.0.0.1 at 2015-12-08 13:48:37 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100702"}
+Completed 200 OK in 2060ms (Views: 87.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100703" for 127.0.0.1 at 2015-12-08 13:48:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100703"}
+Completed 200 OK in 776ms (Views: 87.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100690" for 127.0.0.1 at 2015-12-08 13:48:40 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100690"}
+Completed 200 OK in 1413ms (Views: 89.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100704" for 127.0.0.1 at 2015-12-08 13:48:41 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100704"}
+Completed 200 OK in 990ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100705" for 127.0.0.1 at 2015-12-08 13:48:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100705"}
+Completed 200 OK in 1144ms (Views: 76.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100706" for 127.0.0.1 at 2015-12-08 13:48:43 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100706"}
+Completed 200 OK in 688ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100707" for 127.0.0.1 at 2015-12-08 13:48:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100707"}
+Completed 200 OK in 2211ms (Views: 84.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100708" for 127.0.0.1 at 2015-12-08 13:48:46 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100708"}
+Completed 200 OK in 1463ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100693" for 127.0.0.1 at 2015-12-08 13:48:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100693"}
+Completed 200 OK in 1145ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100709" for 127.0.0.1 at 2015-12-08 13:48:49 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100709"}
+Completed 200 OK in 1281ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100710" for 127.0.0.1 at 2015-12-08 13:48:50 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100710"}
+Completed 200 OK in 1165ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100694" for 127.0.0.1 at 2015-12-08 13:48:51 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100694"}
+Completed 200 OK in 5219ms (Views: 108.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100711" for 127.0.0.1 at 2015-12-08 13:48:56 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100711"}
+Completed 200 OK in 1036ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:48:57 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 1005ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100712" for 127.0.0.1 at 2015-12-08 13:48:58 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100712"}
+Completed 200 OK in 1740ms (Views: 86.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100695" for 127.0.0.1 at 2015-12-08 13:49:00 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100695"}
+Completed 200 OK in 5360ms (Views: 104.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100713" for 127.0.0.1 at 2015-12-08 13:49:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100713"}
+Completed 200 OK in 1775ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100714" for 127.0.0.1 at 2015-12-08 13:49:07 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100714"}
+Completed 200 OK in 1020ms (Views: 84.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100696" for 127.0.0.1 at 2015-12-08 13:49:08 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100696"}
+Completed 200 OK in 833ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100715" for 127.0.0.1 at 2015-12-08 13:49:09 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100715"}
+Completed 200 OK in 876ms (Views: 96.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100697" for 127.0.0.1 at 2015-12-08 13:49:10 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100697"}
+Completed 200 OK in 1833ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100716" for 127.0.0.1 at 2015-12-08 13:49:12 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100716"}
+Completed 200 OK in 2749ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100717" for 127.0.0.1 at 2015-12-08 13:49:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100717"}
+Completed 200 OK in 3444ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100718" for 127.0.0.1 at 2015-12-08 13:49:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100718"}
+Completed 200 OK in 894ms (Views: 86.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100699" for 127.0.0.1 at 2015-12-08 13:49:19 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100699"}
+Completed 200 OK in 2298ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100719" for 127.0.0.1 at 2015-12-08 13:49:21 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100719"}
+Completed 200 OK in 870ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100700" for 127.0.0.1 at 2015-12-08 13:49:22 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100700"}
+Completed 200 OK in 940ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100720" for 127.0.0.1 at 2015-12-08 13:49:23 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100720"}
+Completed 200 OK in 2286ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100679" for 127.0.0.1 at 2015-12-08 13:49:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100679"}
+Completed 200 OK in 660ms (Views: 78.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100721" for 127.0.0.1 at 2015-12-08 13:49:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100721"}
+Completed 200 OK in 974ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100701" for 127.0.0.1 at 2015-12-08 13:49:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100701"}
+Completed   in 367ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:50:36 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 156ms (Views: 149.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:50:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1315ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:50:40 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1221ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:50:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 2896ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:50:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1110ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:50:46 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed   in 4254ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:51:10 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 154ms (Views: 147.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:51:13 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 969ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:51:14 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 903ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:51:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 751ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:51:15 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 688ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:51:16 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 695ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:51:17 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 791ms (Views: 99.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:51:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 651ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:51:18 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 713ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:51:19 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 743ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:51:20 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 723ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:51:20 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 927ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:51:21 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 708ms (Views: 89.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:51:22 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 667ms (Views: 94.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:51:23 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 608ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:51:23 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 643ms (Views: 90.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:51:24 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 624ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100669" for 127.0.0.1 at 2015-12-08 13:51:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100669"}
+Completed 200 OK in 614ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100670" for 127.0.0.1 at 2015-12-08 13:51:25 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100670"}
+Completed 200 OK in 672ms (Views: 114.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:51:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 672ms (Views: 108.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:51:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 884ms (Views: 107.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100672" for 127.0.0.1 at 2015-12-08 13:51:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100672"}
+Completed 200 OK in 628ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:51:28 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 613ms (Views: 83.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100673" for 127.0.0.1 at 2015-12-08 13:51:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100673"}
+Completed 200 OK in 601ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:51:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed 200 OK in 603ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100675" for 127.0.0.1 at 2015-12-08 13:51:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100675"}
+Completed 200 OK in 644ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100676" for 127.0.0.1 at 2015-12-08 13:51:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100676"}
+Completed 200 OK in 616ms (Views: 86.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:51:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 658ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100677" for 127.0.0.1 at 2015-12-08 13:51:32 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100677"}
+Completed 200 OK in 587ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100678" for 127.0.0.1 at 2015-12-08 13:51:32 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100678"}
+Completed 200 OK in 892ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100679" for 127.0.0.1 at 2015-12-08 13:51:33 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100679"}
+Completed 200 OK in 696ms (Views: 85.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100680" for 127.0.0.1 at 2015-12-08 13:51:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100680"}
+Completed 200 OK in 631ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100681" for 127.0.0.1 at 2015-12-08 13:51:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100681"}
+Completed 200 OK in 704ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100682" for 127.0.0.1 at 2015-12-08 13:51:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100682"}
+Completed 200 OK in 585ms (Views: 75.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100675" for 127.0.0.1 at 2015-12-08 13:51:36 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100675"}
+Completed 200 OK in 560ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100683" for 127.0.0.1 at 2015-12-08 13:51:37 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100683"}
+Completed 200 OK in 1041ms (Views: 79.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100684" for 127.0.0.1 at 2015-12-08 13:51:38 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100684"}
+Completed 200 OK in 596ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100685" for 127.0.0.1 at 2015-12-08 13:51:38 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100685"}
+Completed 200 OK in 617ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100677" for 127.0.0.1 at 2015-12-08 13:51:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100677"}
+Completed 200 OK in 646ms (Views: 84.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100686" for 127.0.0.1 at 2015-12-08 13:51:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100686"}
+Completed 200 OK in 687ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100687" for 127.0.0.1 at 2015-12-08 13:51:40 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100687"}
+Completed 200 OK in 587ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100688" for 127.0.0.1 at 2015-12-08 13:51:41 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100688"}
+Completed 200 OK in 632ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100680" for 127.0.0.1 at 2015-12-08 13:51:41 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100680"}
+Completed 200 OK in 582ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100689" for 127.0.0.1 at 2015-12-08 13:51:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100689"}
+Completed 200 OK in 927ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100690" for 127.0.0.1 at 2015-12-08 13:51:43 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100690"}
+Completed 200 OK in 773ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100691" for 127.0.0.1 at 2015-12-08 13:51:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100691"}
+Completed 200 OK in 645ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100692" for 127.0.0.1 at 2015-12-08 13:51:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100692"}
+Completed 200 OK in 575ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100693" for 127.0.0.1 at 2015-12-08 13:51:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100693"}
+Completed 200 OK in 599ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100684" for 127.0.0.1 at 2015-12-08 13:51:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100684"}
+Completed 200 OK in 708ms (Views: 92.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100694" for 127.0.0.1 at 2015-12-08 13:51:46 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100694"}
+Completed   in 854ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100699" for 127.0.0.1 at 2015-12-08 13:51:47 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100699"}
+Completed 500 Internal Server Error in 664ms (ActiveRecord: 0.0ms)
+
+ThreadError (can't alloc thread):
+  app/controllers/insurance_mongo_data_controller.rb:8:in `new'
+  app/controllers/insurance_mongo_data_controller.rb:8:in `fetch'
+
+
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.9ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /home/sarath/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.text.erb (15.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100700" for 127.0.0.1 at 2015-12-08 13:51:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100700"}
+Completed   in 44ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100700" for 127.0.0.1 at 2015-12-08 13:51:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100700"}
+Completed   in 435ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100700" for 127.0.0.1 at 2015-12-08 13:51:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100700"}
+Completed   in 383ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100706" for 127.0.0.1 at 2015-12-08 13:54:00 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100706"}
+Completed 200 OK in 1550ms (Views: 76.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100706" for 127.0.0.1 at 2015-12-08 13:54:01 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100706"}
+Completed 200 OK in 839ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100707" for 127.0.0.1 at 2015-12-08 13:54:02 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100707"}
+Completed 200 OK in 651ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100706" for 127.0.0.1 at 2015-12-08 13:54:03 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100706"}
+Completed 200 OK in 1164ms (Views: 96.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100708" for 127.0.0.1 at 2015-12-08 13:54:04 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100708"}
+Completed 200 OK in 1888ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100707" for 127.0.0.1 at 2015-12-08 13:54:06 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100707"}
+Completed   in 1761ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-12-08 13:54:16 -0600
+Processing by InsuranceController#index as HTML
+  Rendered insurance/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 156ms (Views: 148.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:54:26 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 891ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100658" for 127.0.0.1 at 2015-12-08 13:54:27 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100658"}
+Completed 200 OK in 1210ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:54:28 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 946ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:54:29 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 810ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:54:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 655ms (Views: 76.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100661" for 127.0.0.1 at 2015-12-08 13:54:30 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100661"}
+Completed 200 OK in 756ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100660" for 127.0.0.1 at 2015-12-08 13:54:31 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100660"}
+Completed 200 OK in 1005ms (Views: 132.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:54:32 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 673ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100659" for 127.0.0.1 at 2015-12-08 13:54:33 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100659"}
+Completed 200 OK in 1562ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100663" for 127.0.0.1 at 2015-12-08 13:54:34 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100663"}
+Completed 200 OK in 774ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:54:35 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 609ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100665" for 127.0.0.1 at 2015-12-08 13:54:36 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100665"}
+Completed 200 OK in 721ms (Views: 89.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100662" for 127.0.0.1 at 2015-12-08 13:54:37 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100662"}
+Completed 200 OK in 1010ms (Views: 138.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:54:38 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 1415ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100667" for 127.0.0.1 at 2015-12-08 13:54:39 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100667"}
+Completed 200 OK in 645ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100668" for 127.0.0.1 at 2015-12-08 13:54:40 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100668"}
+Completed 200 OK in 732ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100664" for 127.0.0.1 at 2015-12-08 13:54:40 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100664"}
+Completed 200 OK in 701ms (Views: 95.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100669" for 127.0.0.1 at 2015-12-08 13:54:41 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100669"}
+Completed 200 OK in 680ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100670" for 127.0.0.1 at 2015-12-08 13:54:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100670"}
+Completed 200 OK in 686ms (Views: 86.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100671" for 127.0.0.1 at 2015-12-08 13:54:42 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100671"}
+Completed 200 OK in 694ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100666" for 127.0.0.1 at 2015-12-08 13:54:43 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100666"}
+Completed 200 OK in 999ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100672" for 127.0.0.1 at 2015-12-08 13:54:44 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100672"}
+Completed 200 OK in 812ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100673" for 127.0.0.1 at 2015-12-08 13:54:45 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100673"}
+Completed 200 OK in 3414ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/insurance_mongo_data/fetch/100674" for 127.0.0.1 at 2015-12-08 13:54:48 -0600
+Processing by InsuranceMongoDataController#fetch as */*
+  Parameters: {"k"=>"100674"}
+Completed   in 2279ms (ActiveRecord: 0.0ms)
